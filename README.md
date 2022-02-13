@@ -1,5 +1,5 @@
 # Quiz-App
-This is the application designed using C++, where the user will appear in a quiz, one question at a time. Each question will have 4 answers, user has to choose the correct one. When user submits the answer, the program will evaluate it against stored answer for the specific questions. All the 10 questions will be evaluated in the similar manner and marks will be assigned to the correctly chosen answers. At the end program will display the marks that the user has secured. 
+This is the application designed using C++, where the user can appear for a quiz, one question at a time. Each question will have 4 answers, user has to choose the correct one. When user submits the answer, the program will evaluate it against stored answer for the specific questions. All the questions will be evaluated in the similar manner and marks will be assigned to the correctly chosen answers. At the end program will display the marks that the user has secured in the quiz. 
 
 ## TOTAL SCREENS IN THE PROJECT
 Overall, the project "QUIZ APPLICATION”, will have following screens:
