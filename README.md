@@ -29,8 +29,8 @@ Overall, the project "QUIZ APPLICATION”, will have following screens:
 
 Before designing the Main Screen , we need to do the following:
 1. Add support of conio2.h in the project.
-2. Create a header file called "quiz.h" which will contain class declarations and member function declarations
-3. Create a source code file called "quiz.cpp" which will contain definitions of the member functions declared in the file "quiz.h". 
+2. Create a header file called "quiz.h" which contains class declarations and member function declarations
+3. Create a source code file called "quiz.cpp" which contains definitions of the member functions declared in the file "quiz.h". 
 
 ## ADDING "conio2.h" SUPPORT
 1. Create the project "QUIZ APPLICATION" in CODEBLOCKS.
@@ -114,6 +114,10 @@ The class StudentPerformance have following member functions:
 27) saveMarksDetails()
 28) viewDetails()
 29) show()
+
+## PROJECT VIDEO
+
+https://user-images.githubusercontent.com/77681258/153749368-20997c4c-83ec-42bc-a9a5-fdd0d7022f1d.mp4
 
 
 
