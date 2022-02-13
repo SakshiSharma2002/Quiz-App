@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1386420876 source:e:\online c++ project\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\online c++ project\conio2.h
+	<conio.h>
+	<windows.h>
+
+1634703719 source:e:\online c++ project\quiz.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	"quiz.h"
+
+1634706229 e:\online c++ project\quiz.h
+	<string>
+
+1386420876 source:e:\online c++ project\quizzapp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\online c++ project\quizzapp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1644492630 source:e:\online c++ project\quizzapp\quiz.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	"conio2.h"
+	"quiz.h"
+	<cstdlib>
+	<time.h>
+
+1637381601 e:\online c++ project\quizzapp\quiz.h
+	<string>
+	<vector>
+
+1644476056 source:e:\online c++ project\quizzapp\main.cpp
+	<iostream>
+	"conio2.h"
+	"quiz.h"
+
