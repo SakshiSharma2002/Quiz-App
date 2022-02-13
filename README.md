@@ -21,5 +21,8 @@ Overall, the project "QUIZ APPLICATION”, will have following screens:
            3) Exit
            
 ## THE "MAIN SCREEN" AND "OPTION SCREEN"
+![Main_Screen](https://user-images.githubusercontent.com/77681258/153747946-0bd3ab04-70da-49b6-9c87-6d9d7a37a532.jpg)
 
+
+![Option Screen](https://user-images.githubusercontent.com/77681258/153747950-0052e679-79f2-4cae-ba08-f94a7a76d77a.jpg)
 
